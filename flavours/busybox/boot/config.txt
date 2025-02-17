@@ -1,0 +1,2 @@
+KERNEL=boot/Image.gz
+INITRAMFS=boot/init.cpio
