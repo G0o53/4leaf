@@ -1,2 +1,3 @@
 kernel=boot/Image.gz
 initramfs=boot/init.cpio
+gpu_mem=16
